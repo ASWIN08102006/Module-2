@@ -6,7 +6,7 @@ To write a Python program that defines a function which accepts two values and r
 ## 🧠 Algorithm
 1. Define a function called `result` that takes two arguments `a` and `b`.
 2. Inside the function, compute the modulo using `a % b`.
-3. Print the result of the modulo operation.
+3. Print the result of the modulo operation..
 4. Get two integer inputs from the user.
 5. Call the `result` function with the user-provided values.
 
